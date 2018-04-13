@@ -1,0 +1,14 @@
+*.swp
+bin/
+.gradle/
+build/
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+*.class
+.ideaDataSources/
+dataSources/
+
+blueprint/monitoring/templates
